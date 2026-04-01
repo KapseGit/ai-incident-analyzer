@@ -1,0 +1,7 @@
+Incident ID: INC1001  
+Service: Payment Gateway  
+Issue: Transactions failing  
+Error: Timeout error  
+Impact: 70% users affected  
+Region: India  
+History: Similar issue due to server overload
