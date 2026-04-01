@@ -1,0 +1,12 @@
+Act as an experienced Incident Manager.
+
+Analyze the following incident and provide:
+
+Root Cause
+Priority (P1, P2, P3)
+Resolution Steps
+
+Incident:
+{incident_log}
+
+Respond clearly.
